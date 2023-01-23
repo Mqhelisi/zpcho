@@ -1,0 +1,31 @@
+.pagin {
+    background-color: rgba(78, 193, 68, 0.509);
+    /* display: flex; */
+    /* margin-top: 80px; */
+    justify-content: center;
+    /* align-items: center; */
+    font-size: 0.8rem;
+    /* position: sticky; */
+    top: 0;
+    z-index: 999;
+    border-bottom:4px solid rgb(47, 0, 255);
+    border-top: 4px solid rgb(47, 0, 255);
+  }
+  .spacer {
+  
+    margin-top: 80px;
+  }
+  .pagin2 {
+    background-color: rgba(68, 130, 184, 0.509);
+    /* display: flex; */
+    justify-content: center;
+    /* align-items: center; */
+    font-size: 0.8rem;
+    /* position: sticky; */
+    top: 0;
+    z-index: 999;
+  }
+
+  .row{
+    display: flex;
+  }
